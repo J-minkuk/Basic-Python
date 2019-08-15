@@ -21,5 +21,10 @@
         word[0] = 'C' # TypeError: 'str' object does not support item assignment
 * 리스트, 세트, 튜플은 서로 변환될 수 있다.
 
+## Tuple & Set
+* Tuple은 Immutable 타입의 리스트
+    * 하지만, 튜플 요소가 Mutable하면 수정할 수 있음
+* Set은 중복과 순서가 없는 자료형
+
 ## Crawling
 * [Starting](crawling/started)
